@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c07c3fca-d8b5-4f4a-9bbb-556ab2864a01",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "40米大刀": {
+      "ver": "1.0.3",
+      "uuid": "5a8ae299-dcdd-4d1e-adaa-fe272733d6ff",
+      "rawTextureUuid": "c07c3fca-d8b5-4f4a-9bbb-556ab2864a01",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 28,
+      "height": 230,
+      "rawWidth": 28,
+      "rawHeight": 230,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
